@@ -1,2 +1,3 @@
-# Geometric-aware Point Descriptor
-code for paper " Geometric-aware Point-wise Deep Descriptors for Objects' 6D Pose Estimation from RGB-D Image"
+# GDM6D
+code for paper " Geometric-aware Dense Matching Network for Objects’ 6D Pose
+Estimation from RGB-D Image"
