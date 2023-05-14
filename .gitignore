@@ -1,0 +1,12 @@
+train_log/
+nohup.out
+datasets/ycb/YCB_Video_Dataset
+datasets/linemod/Linemod_preprocessed
+datasets/lm/linemod
+datasets/linemod/occlusion_linemod
+debug_img/
+datasets/ycbv/ycbv
+open3d/
+runs/
+output/
+lib/bop_toolkit-master/*
